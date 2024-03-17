@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @meryemayseokmen
-- 👀 I’m interested in Frontend Developer
+  
